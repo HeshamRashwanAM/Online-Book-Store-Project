@@ -42,6 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\Parser.cs" />
+    <Compile Include="Classes\User_Object.cs" />
     <Compile Include="Interfaces\Admin Functionality.cs" />
     <Compile Include="Classes\Admin.cs" />
     <Compile Include="Classes\Book.cs" />

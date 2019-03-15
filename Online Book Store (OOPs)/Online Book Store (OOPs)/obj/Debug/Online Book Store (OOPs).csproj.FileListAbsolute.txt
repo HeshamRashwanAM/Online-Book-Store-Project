@@ -5,3 +5,10 @@ D:\C# Self Study\Online Book Store (OOPs)\Online Book Store (OOPs)\obj\Debug\Onl
 D:\C# Self Study\Online Book Store (OOPs)\Online Book Store (OOPs)\obj\Debug\Online Book Store (OOPs).csproj.CoreCompileInputs.cache
 D:\C# Self Study\Online Book Store (OOPs)\Online Book Store (OOPs)\obj\Debug\Online Book Store (OOPs).exe
 D:\C# Self Study\Online Book Store (OOPs)\Online Book Store (OOPs)\obj\Debug\Online Book Store (OOPs).pdb
+C:\Users\b3nj4m1n\Documents\GitHub\Online-Book-Store-Project\Online Book Store (OOPs)\Online Book Store (OOPs)\bin\Debug\Online Book Store (OOPs).exe.config
+C:\Users\b3nj4m1n\Documents\GitHub\Online-Book-Store-Project\Online Book Store (OOPs)\Online Book Store (OOPs)\bin\Debug\Online Book Store (OOPs).exe
+C:\Users\b3nj4m1n\Documents\GitHub\Online-Book-Store-Project\Online Book Store (OOPs)\Online Book Store (OOPs)\bin\Debug\Online Book Store (OOPs).pdb
+C:\Users\b3nj4m1n\Documents\GitHub\Online-Book-Store-Project\Online Book Store (OOPs)\Online Book Store (OOPs)\obj\Debug\Online Book Store (OOPs).csprojAssemblyReference.cache
+C:\Users\b3nj4m1n\Documents\GitHub\Online-Book-Store-Project\Online Book Store (OOPs)\Online Book Store (OOPs)\obj\Debug\Online Book Store (OOPs).csproj.CoreCompileInputs.cache
+C:\Users\b3nj4m1n\Documents\GitHub\Online-Book-Store-Project\Online Book Store (OOPs)\Online Book Store (OOPs)\obj\Debug\Online Book Store (OOPs).exe
+C:\Users\b3nj4m1n\Documents\GitHub\Online-Book-Store-Project\Online Book Store (OOPs)\Online Book Store (OOPs)\obj\Debug\Online Book Store (OOPs).pdb
